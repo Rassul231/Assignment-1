@@ -3,7 +3,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.ArrayList;
-
                         public class MyApplication {
                             public static void main(String[] args) throws FileNotFoundException {
                                 File file = new File("C:\\Users\\satpe\\IdeaProjects\\Project1\\src\\Code\\source.txt");
